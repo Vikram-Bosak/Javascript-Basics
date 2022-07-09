@@ -14,7 +14,16 @@ console.log(_1my_Name);
 var 1myName = "vikram";
 console.log(1myName);
 
+
+// we get  error;
 // 4.------------------------------------------
 
 var $myName = "vikramBosak";
 console.log($myName);
+
+// 5.-------------------------------------------
+
+var myName% = "vikrambosak";
+.console.log(myNmae%);
+
+// there an error
