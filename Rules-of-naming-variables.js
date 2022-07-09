@@ -6,3 +6,6 @@
 // 1vikram  (invalid)
 // vikram1  (valid)
 
+var value1 = 10;
+console.log(value1 * 10);
+
