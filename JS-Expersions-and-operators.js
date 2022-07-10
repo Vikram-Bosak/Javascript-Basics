@@ -49,7 +49,7 @@ var a = 30;
 var b = 10;
 
 // Equal (==)
-console.log(a == b);
+console.log(a === b);
 
 Not equal ()
 
