@@ -21,11 +21,37 @@
 
 // console.log("remainder operator"   + 27%4);
 
-:
+
+// 😄 increment and Decrenent  operator
+// operator : X++ or ++X or X-- or --X
+// if used postfix , with operator after operand ( for example, X++)
+// the increment operator increments and returns the value befpre incrementing.
+
+// var num = 15;
+// var newNum = num++ + 5;
+// console.log(num);
+// console.log(newNum);
+
+
+// prefix increment operator means the variable is incremented first and then the Expression is  evaluated using the new value of the variables.
+
+
+// var num = 15;
+// var newNum = ++num ;
+// console.log(num);
+// console.log(newNum);
 
 
 // 3. comparison operators
+// A comparison operator compares its operand and return a logical value based  on whether the comparison is true or false
 
+var a = 30;
+var b = 10;
+
+// Equal (==)
+console.log(a == b);
+
+Not equal ()
 
 
 
