@@ -17,6 +17,10 @@ git cheakout {file name] - to show broken file or to correct deleted files
 
 git cheakout -f     -- for more then one file deleted to correct
 
+git log    --- to show all commit in terminal
+
+git log -p -10    -- to show any commit with number
+
 
 
 
