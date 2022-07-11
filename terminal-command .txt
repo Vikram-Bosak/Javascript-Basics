@@ -48,6 +48,10 @@ git checkout [branch name]  ----  swich one branch to other branch
 
 git marge  [branch name]    ---- merge new branch to main branch
 
+git branch  ---  show list of all branch
+
+
+
 
  
 
