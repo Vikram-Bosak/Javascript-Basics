@@ -65,9 +65,11 @@ var b = 10;
 // console.log(a < b);
 
 // less then and equal to (<=)
-console.log( a <= b);
+// console.log( a <= b);
 
 
 // 4. Logical operators
+
+
 // 5. String operators
 // 6. Conditional (ternary) operators

@@ -1,3 +1,7 @@
+git config --global user.name vikram-bosak    --- to execess the github to terminal
+
+git config --global user.name vikramkumarbosak89@gmail.com
+
 ls  - to show all files
 
 ls -lart - to hiden files
@@ -20,6 +24,8 @@ git cheakout {file name] - to show broken file or to correct deleted files
 git cheakout -f     -- for more then one file deleted to correct
 
 git log    --- to show all commit in terminal
+
+type q for exit from inner terminal
 
 git log -p -10    -- to show any commit with number
 
