@@ -11,6 +11,8 @@ git add file name  to add files to Github
 
 git commit -m " keep learning "   to commit a file or a final commit 
 
+git commit -a -m "skipped staging area and fixed <"        --- to commit and skipped all staged
+
 touch           to create bank files
 
 git cheakout {file name] - to show broken file or to correct deleted files
@@ -25,6 +27,8 @@ git log -p -10    -- to show any commit with number
 git diff  --- to show last eddit line or difference two file 
 
 git diff --staged     --- to show last staged
+
+
 
 
 
