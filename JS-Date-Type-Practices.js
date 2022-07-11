@@ -60,24 +60,24 @@ console.log(typeof(false - true));
 
 
 // this a output
-e JS-Exercise-02.js 
-1020
-string
-4
-number
-javaScript
-string
+// e JS-Exercise-02.js 
+// 1020
+// string
+// 4
+// number
+// javaScript
+// string
   
-string
- 0
-string
-NaN
-number
-2
-number
-1
-number
-1
-number
--1
-number
+// string
+//  0
+// string
+// NaN
+// number
+// 2
+// number
+// 1
+// number
+// 1
+// number
+// -1
+// number
