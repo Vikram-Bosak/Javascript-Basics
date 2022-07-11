@@ -1,0 +1,25 @@
+ls  - to show all files
+
+ls -lart - to hiden files
+
+git status   to check the status 
+
+git add -A    to add files to Github
+
+git add file name  to add files to Github
+
+
+git commit -m " keep learning "   to commit a file or a final commit 
+
+touch           to create bank files
+
+git cheakout {file name] - to show broken file or to correct deleted files
+
+git cheakout -f     -- for more then one file deleted to correct
+
+
+
+
+
+
+
