@@ -50,6 +50,8 @@ git marge  [branch name]    ---- merge new branch to main branch
 
 git branch  ---  show list of all branch
 
+git cheakout -b [branch name]     ---- to create new branch and swich in it
+
 
 
 
