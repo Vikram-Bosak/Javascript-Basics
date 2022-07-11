@@ -45,8 +45,8 @@
 // 3. comparison operators
 // A comparison operator compares its operand and return a logical value based  on whether the comparison is true or false
 
-var a = 30;
-var b = 10;
+// var a = 30;
+// var b = 10;
 
 // Equal (==)
 // console.log(a === b);
@@ -69,7 +69,17 @@ var b = 10;
 
 
 // 4. Logical operators
+// logical operators are typically use with  boolean (logical) values; when they are, they return a boolean value.
 
+var a = 30;
+var b = -20;
+ 
+// there are three types of logical operators
+
+// Logical AND (&&)
+// the logical  AND (&&) operators (logical conjunction) for a set of operands is ture if and only if all of its operands are true.
+
+console. log(a > b && b > 0 && b < 0 );
 
 // 5. String operators
 // 6. Conditional (ternary) operators
