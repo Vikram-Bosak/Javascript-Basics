@@ -52,7 +52,10 @@ var b = 10;
 // console.log(a === b);
 
 // Not equal (!=) 
-console.log( a != b);
+// console.log( a != b);
+
+// Greater then (>)
+console.log(a > b);
 
 
 
