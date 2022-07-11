@@ -55,9 +55,17 @@ var b = 10;
 // console.log( a != b);
 
 // Greater then (>)
-console.log(a > b);
+// console.log(a > b);
 
 
+// Greater then and equal to (>=)
+// console.log( a >= b);
+
+// less then (<)
+// console.log(a < b);
+
+// less then and equal to (<=)
+console.log( a <= b);
 
 
 // 4. Logical operators
