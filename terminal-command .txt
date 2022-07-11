@@ -34,6 +34,8 @@ git diff  --- to show last eddit line or difference two file
 
 git diff --staged     --- to show last staged
 
+git push    ---- to push file to github
+
 
 
 
