@@ -54,10 +54,10 @@ git branch  ---  show list of all branch
 
 git cheakout -b [branch name]     ---- to create new branch and swich in it
 
-git branch -m main master               ---- to change branch naem or rename the branch name
-git fetch origin
-git branch -u origin/master master
-git remote set-head origin -a
+git branch -m main master          step1     ---- to change branch naem or rename the branch name
+git fetch origin                   step2  
+git branch -u origin/master master  step3
+git remote set-head origin -a       step 4
 
 
  
