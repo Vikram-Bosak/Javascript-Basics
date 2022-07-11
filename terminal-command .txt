@@ -60,6 +60,17 @@ git branch -u origin/master master  step3
 git remote set-head origin -a       step 4
 
 
+git remote ---- to show remote orgin 
+
+git remote -v  ------to show remote url
+
+git push origin master   --- for everything up to delate
+
+git push -u origin master   ----- for everything up to date
+
+git clone [url] folder name
+
+
  
 
 
