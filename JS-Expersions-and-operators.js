@@ -90,10 +90,18 @@ var b = -20;
 // Logical NOT (!)
 // the logical NOT (!) operator (logical complement , negation) take truth to falsity and vice Versa,
 
-console. log(!((a > b) && (b > 0) && (b < 0 )));
+// console. log(!((a > b) && (b > 0) && (b < 0 )));
 
 
 
 
-// 5. String operators
+
+
+// 5. String concatenation operators
+// The concatenation operator (+) concatenates two string values together, returing another string that is the two operand string.
+
+console.log("Hello World");
+console.log("Hello" + "world");
+
+
 // 6. Conditional (ternary) operators
