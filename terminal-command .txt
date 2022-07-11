@@ -36,6 +36,14 @@ git diff --staged     --- to show last staged
 
 git push    ---- to push file to github
 
+git rm --cached [file name]    ---- for removed file frome staged 
+
+git rm [file name]  ------for permanant delate or removed files
+
+
+
+
+
 
 
 
