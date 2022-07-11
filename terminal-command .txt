@@ -22,6 +22,10 @@ git log    --- to show all commit in terminal
 git log -p -10    -- to show any commit with number
 
 
+git diff  --- to show last eddit line or difference two file 
+
+git diff --staged     --- to show last staged
+
 
 
 
