@@ -40,6 +40,8 @@ git rm --cached [file name]    ---- for removed file frome staged
 
 git rm [file name]  ------for permanant delate or removed files
 
+git rm -f [file name]  ----- for removed force fully
+
 touch .gitignore  --- to create gitignore file  and to ignore big files
 
 touch mylog.log   --- to ignore big files
