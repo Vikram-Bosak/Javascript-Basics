@@ -1,4 +1,4 @@
 /mylog.log
 ignore/
 *.log
-*.cpp
+# *.cpp
