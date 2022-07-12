@@ -16,6 +16,7 @@ git add file name  to add files to Github
 git commit -m " keep learning "   to commit a file or a final commit 
 
 git commit -a -m "skipped staging area and fixed <"        --- to commit and skipped all staged
+// !6 mv [old file name]   [new file name ] or  ls -l ---- to rename a files  
 
 touch           to create bank files
 
@@ -79,6 +80,11 @@ git push -u origin master   ----- for everything up to date
 // !5 echo "" > [filename] or touch [filename]   --- to create a new files
 
 // !6 mv [old file name]   [new file name ] or  ls -l ---- to rename a files  
+
+
+// !6 mv [old file name]   [new file name ] or  ls -l ---- to rename a files  
+
+
  
 
 
