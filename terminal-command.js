@@ -78,7 +78,7 @@ git push -u origin master   ----- for everything up to date
 
 // !5 echo "" > [filename] or touch [filename]   --- to create a new files
 
-// !6 mv [old file name] [new file name ] ---- to rename a files  
+// !6 mv [old file name]   [new file name ] or  ls -l ---- to rename a files  
  
 
 
