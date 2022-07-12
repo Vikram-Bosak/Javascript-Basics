@@ -28,5 +28,14 @@ console.log("the value of b is " + b);
 
 // Write a program to swap two numbers without using third varibable?
 
+//output b = 5 , a = 10;
+
+a = a + b;  //a =15
+b = a - b;  //b = 5
+a = a - b;  // a = 10
+
+
+console.log("the value of a is " + a);
+console.log("the value of b is " + b);
 
 
