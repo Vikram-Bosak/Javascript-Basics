@@ -84,6 +84,10 @@ git push -u origin master   ----- for everything up to date
 
 // !6 mv [old file name]   [new file name ] or  ls -l ---- to rename a files  
 
+//!8 git rm -f -r [files name or foldername]   ---- to delate a force fully
+
+
+
 
  
 
