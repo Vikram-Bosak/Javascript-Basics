@@ -24,9 +24,7 @@
 // the rest of the variable name can include any letter any number or the underscore can't use any other characters,including spaces.
 
 // var myAge = 25;
-// console.log(myAge);
-
-// you can't use one of javascript reserved words as a variables name
+// console.log(myAge);// you can't use one of javascript reserved words as a variables name
 
  var firstCar = "jeep and the thunder"
 console.log(firstCar);
