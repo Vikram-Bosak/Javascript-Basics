@@ -68,7 +68,15 @@ git push origin master   --- for everything up to delate
 
 git push -u origin master   ----- for everything up to date
 
-git clone [url] folder name
+// !2 git clone [url] folder name
+
+// !1 pwd  ----- to show file directy
+
+// !3 mkdir [foldername] ------ to create a new folder and empty folder
+
+// !4 cd  [foldername]   --------- for go inside in new any folder which we have created
+
+// !5 echo "" > [filename] or touch [filename]   --- to create a new files
 
 
  

@@ -35,6 +35,6 @@ console.log(typeof(iamvikrams));
  
 
 
-// ***** 1. hera are the examples of undefind date types
+// #***** 1. hera are the examples of undefind date types
 var iAmstandBy;
 console.log(iAmstandBy);
