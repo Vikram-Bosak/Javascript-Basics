@@ -3,7 +3,7 @@
 
 // undefined - The undefined property indicates that a variable has not been declared at all.
 
-// null-The value null represents the absence of any object value
+// TODO - null-The value null represents the absence of any object value
 
 // var iamuseless = null;
 console.log(iamuseless);

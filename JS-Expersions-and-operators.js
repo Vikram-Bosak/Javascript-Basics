@@ -3,11 +3,6 @@
 
 // there are six types of experession and opeators
 
-// 1. Assignment operators
-
-// An Assignment operators assigns a value to its left operand based on the value of its right operand.
-// the simple Assignment operators is equal (=)
-
 
 
 
@@ -73,7 +68,8 @@
 
 var a = 30;
 var b = -20;
- 
+//  TODO:
+
 // there are three types of logical operators
 
 // Logical AND (&&)
