@@ -86,6 +86,17 @@
 
 ///!8 git rm -f -r [files name or foldername]   ---- to delate a force fully
 
+/// ls -al ------ to show all files inside the folder
+
+/// pwd ---- to verfy the folder d
+
+/// cd .. ----- to go back folder
+
+///dpkg --list    ---- to show all list of install apps
+
+///sudo apt-get --purge remove [app name ] ---- unstall any apps from the pc 
+
+
 
 
 
