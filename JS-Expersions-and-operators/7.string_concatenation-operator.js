@@ -10,4 +10,4 @@ console.log("Hello" + "world");
 var myName = "vikram";
 
 console.log(myName + "bosak");
- console.log(myName + " kumar Bosak");
+console.log(myName + " kumar Bosak");
