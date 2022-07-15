@@ -92,7 +92,7 @@
 
 /// cd .. ----- to go back folder
 
-///dpkg --list    ---- to show all list of install apps
+///dpkg --list    ---- to show all list of install apps 
 
 ///sudo apt-get --purge remove [app name ] ---- unstall any apps from the pc 
 
@@ -105,6 +105,6 @@
 
 
 
-11
+
 
 
