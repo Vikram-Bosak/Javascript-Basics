@@ -19,3 +19,7 @@ console.log(typeof(iAmstandBy));
 
 
 
+function iamuseless(iamuseless) {
+    throw new Error("Function not implemented.");
+}
+
