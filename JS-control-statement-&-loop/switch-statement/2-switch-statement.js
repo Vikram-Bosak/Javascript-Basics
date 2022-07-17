@@ -1,7 +1,7 @@
 
 // @ts-ignore
 
-// => 3️⃣ switch statement
+// => 2️⃣ls switch statement
 // ->Evaluates an expression , matching the expression's value to a case clause, and executes statemtnts statment s assciated with that case
 
 // 1st without break statment
