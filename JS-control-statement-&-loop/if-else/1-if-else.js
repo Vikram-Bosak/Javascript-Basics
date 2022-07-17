@@ -1,4 +1,4 @@
-// #1. if Else 
+// #1. if Else
 
 //! The statement executes a statement if a specified condition is truthy
 // ! if the condition is falsy another statement can be executed.

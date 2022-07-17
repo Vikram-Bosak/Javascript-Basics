@@ -4,15 +4,15 @@
 
 // => this is example of else:grinning  ⬇️
 
-// var age = 19;
+var age = 19;
 
-// if (age >= 18) {
-//     console.log('you are  eligible to vote');
+if (age >= 18) {
+    console.log('you are  eligible to vote');
 
-// } else {
-// console.log('you are not eligible to vote');
+} else {
+console.log('you are not eligible to vote');
 
-// }
+}
 
 // => this is a ternary operator examples . ant it's to short from ifelse  ⬇️
 

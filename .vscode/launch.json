@@ -4,35 +4,9 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Launch Chrome",
-            "request": "launch",
-            "type": "chrome",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
-        },
-        {
-            "name": "Attach to Edge",
-            "port": 9222,
-            "request": "attach",
-            "type": "msedge",
-            "webRoot": "${workspaceFolder}"
-        },
-        {
-            "name": "Launch Edge",
-            "request": "launch",
-            "type": "msedge",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
-        },
-        {
-            "name": "Launch Chrome",
-            "request": "launch",
-            "type": "chrome",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
-        },
-        
+
+
+
         {
             "name": "Attach by Process ID",
             "processId": "${command:PickProcess}",
@@ -42,13 +16,7 @@
             ],
             "type": "node"
         },
-        {
-            "name": "Attach to Chrome",
-            "port": 9222,
-            "request": "attach",
-            "type": "chrome",
-            "webRoot": "${workspaceFolder}"
-        },
+
         {
             "name": "Attach",
             "port": 9229,
@@ -103,19 +71,6 @@
         }
     ],
     "compounds": [
-        {
-            "name": "Launch Edge Headless and attach DevTools",
-            "configurations": [
-                "Launch Microsoft Edge in headless mode",
-                "Open Edge DevTools"
-            ]
-        },
-        {
-            "name": "Launch Edge and attach DevTools",
-            "configurations": [
-                "Launch Microsoft Edge",
-                "Open Edge DevTools"
-            ]
-        }
+
     ]
 }
