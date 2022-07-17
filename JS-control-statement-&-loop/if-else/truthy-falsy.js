@@ -12,4 +12,4 @@ if (score = 0) {
 } else {
     console.log('yay, We  won the game');
 
-}
+}8 
