@@ -10,3 +10,5 @@ function sum(a,b){   //-function parameter
 
 }
 var funExp   = sum(439,43);
+
+
