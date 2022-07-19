@@ -3,7 +3,7 @@
                              // -> 1️⃣ Moving
 // =>h move cursor left
 
-// => j move cursor down
+// => j move cursor qown
 
 // => k move cursor up
 
@@ -242,6 +242,51 @@
 
 // =>Ctrl+o move to previous instance in jump list
 
-// =>g, move to next instance in change list
+// =>g, move to next instance in change list ❌
 
-// =>g; move to previous instance in change list
+// =>g; move to previous instance in change list ❌
+
+
+
+                        // ->Multiple Files
+
+// =>:e ﬁle_name open a ﬁle in a new buﬀer
+
+// => :bn move to next buﬀer
+
+// => :bp go back to previous buﬀer
+
+// => :bd close buﬀer
+
+// => :b# move to the speciﬁed buﬀer (by
+// number)
+// => :b ﬁle_name move to the speciﬁed buﬀer (by name)
+
+// => :ls list all buﬀers
+
+// => :sp ﬁle_name open a ﬁle in a new buﬀer and split
+// viewpoint horizontally
+
+// => :vs ﬁle_name open a ﬁle in a new buﬀer and split
+// viewpoint vertically
+
+// => :vert ba edit all ﬁles as vertical viewports
+
+// => :tab ba edit all buﬀers as tabs
+
+
+// => gt move to next tab
+
+// => gT move to previous:c tab
+
+// =>Ctrl+ws split viewport horizontCtrl+wv split viewport vertically
+
+// => Ctrl+ww switch viewports
+
+// => Ctrl+wq quit a viewport
+
+// => Ctrl+wx exchange current viewport with next  ❌
+// one
+
+// => Ctrl+= make all viewports equal height and
+// widthally
