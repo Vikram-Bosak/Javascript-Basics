@@ -39,4 +39,4 @@
 
 // =>scrum
 
-commnication skill is very important 
+// commnication skill is very important
